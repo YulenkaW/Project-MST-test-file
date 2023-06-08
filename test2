@@ -1,0 +1,14 @@
+Full Graph - Adjacency List
+Adj[0] -> (1,4) (2,3) 
+Adj[1] -> (0,4) (3,2) (2,1) 
+Adj[2] -> (3,4) (0,3) (1,1) 
+Adj[3] -> (2,4) (1,2) (4,2) 
+Adj[4] -> (5,6) (3,2) 
+Adj[5] -> (4,6) 
+
+Minimum Spanning Tree
+Edge: 1 - 2 weight: 1
+Edge: 2 - 0 weight: 3
+Edge: 3 - 1 weight: 2
+Edge: 4 - 3 weight: 2
+Edge: 5 - 4 weight: 6
